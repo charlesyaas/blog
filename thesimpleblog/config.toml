@@ -1,0 +1,4 @@
+baseURL = 'https://charlesid.dev/'
+languageCode = 'en-us'
+title = 'Charlesid.dev'
+theme = 'hugo-profile'
